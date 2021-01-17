@@ -1,0 +1,3 @@
+/home/shi/server_epoll/build/CMakeFiles/rebuild_cache.dir
+/home/shi/server_epoll/build/CMakeFiles/edit_cache.dir
+/home/shi/server_epoll/build/CMakeFiles/epollexe.dir
